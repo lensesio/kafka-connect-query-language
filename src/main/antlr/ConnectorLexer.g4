@@ -260,7 +260,7 @@ FIELD
 
 
 TOPICNAME
-   : ( 'a' .. 'z' | 'A' .. 'Z' | '_' | '0' .. '9' | '-' | '+' | '/' |'{'|'}'|':' )+ | ESCAPED_TOPIC
+   : ( 'a' .. 'z' | 'A' .. 'Z' | '_' | '0' .. '9' | '-' | '+' | '/' |'{'|'}'|':'|'$' )+ | ESCAPED_TOPIC
    ;
 
 KEYDELIMVALUE
