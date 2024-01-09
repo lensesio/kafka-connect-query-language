@@ -2,7 +2,16 @@
 [<img src="https://img.shields.io/badge/latest%20release-v2.9.0-blue.svg?label=latest%20release"/>](http://search.maven.org/#search%7Cga%7C1%7Cg%3A%22com.datamountaineer%22%20AND%20a%3A%22kcql%22)
 
 
+
+
+*Deprecated Repository Notice:*
+
+This repository is no longer actively maintained and has been deprecated. The codebase has been seamlessly integrated into the Stream Reactor project, starting from version 6. As a result, ongoing development and improvements are now being conducted within the Stream Reactor project.
+
+
 # Kafka Connect Query Language
+
+
 
 The **KCQL** (**K**afka **C**onnect **Q**uery **L**anguages) is a SQL like syntax allowing a streamlined configuration of a Kafka Connect Sink/Source. It is build using the <a href="https://github.com/antlr/grammars-v4">`antlr4`</a> API.
 
