@@ -4,7 +4,7 @@
 
 
 
-#Deprecated Repository Notice:
+# Deprecated Repository Notice:
 
 This repository is no longer actively maintained and has been deprecated. The codebase has been seamlessly integrated into the Stream Reactor project, starting from version 6. As a result, ongoing development and improvements are now being conducted within the Stream Reactor project.
 
